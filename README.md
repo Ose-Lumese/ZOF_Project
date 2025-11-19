@@ -41,6 +41,7 @@ A fully functional, standalone Python script that can run any of the six solvers
 
 The project adheres to the following structure for deployment and organization:
 
+```
 /ZOF_Project/
   |- ZOF_CLI.py              # Standalone Command Line Application
   |- app.py                  # Flask Web Application Backend
@@ -48,5 +49,5 @@ The project adheres to the following structure for deployment and organization:
   |- ZOF_hosted_webGUI_link.txt # Required submission file with live URL
   |- /templates/             # HTML templates folder
   |    |- index.html         # Web GUI Front-end (HTML/Tailwind CSS/JS)
-
+```
 
